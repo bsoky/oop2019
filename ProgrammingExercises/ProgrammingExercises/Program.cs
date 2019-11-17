@@ -67,7 +67,7 @@ namespace ProgrammingExercises
             //RandomGameVsAi(int.Parse(Console.ReadLine()));
                 //---------------------------------------------------------
 
-        }       //EXERCISE 7 ----------------------------------------------
+        }       
 
         public static int? ReadInt(string input)
         {
