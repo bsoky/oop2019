@@ -1,0 +1,9 @@
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\bin\Debug\netcoreapp2.1\BattleSimEntities.deps.json
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\bin\Debug\netcoreapp2.1\BattleSimEntities.dll
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\bin\Debug\netcoreapp2.1\BattleSimEntities.pdb
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\obj\Debug\netcoreapp2.1\BattleSimEntities.csproj.CoreCompileInputs.cache
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\obj\Debug\netcoreapp2.1\BattleSimEntities.AssemblyInfoInputs.cache
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\obj\Debug\netcoreapp2.1\BattleSimEntities.AssemblyInfo.cs
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\obj\Debug\netcoreapp2.1\BattleSimEntities.dll
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\obj\Debug\netcoreapp2.1\BattleSimEntities.pdb
+C:\Users\Joelw\source\repos\BattleSim\BattleSimEntities\obj\Debug\netcoreapp2.1\BattleSimEntities.csprojAssemblyReference.cache

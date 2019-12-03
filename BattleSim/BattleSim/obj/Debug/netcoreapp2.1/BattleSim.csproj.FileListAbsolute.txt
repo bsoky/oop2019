@@ -1,0 +1,14 @@
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\bin\Debug\netcoreapp2.1\BattleSim.deps.json
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\bin\Debug\netcoreapp2.1\BattleSim.runtimeconfig.json
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\bin\Debug\netcoreapp2.1\BattleSim.runtimeconfig.dev.json
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\bin\Debug\netcoreapp2.1\BattleSim.dll
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\bin\Debug\netcoreapp2.1\BattleSim.pdb
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\obj\Debug\netcoreapp2.1\BattleSim.csprojAssemblyReference.cache
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\obj\Debug\netcoreapp2.1\BattleSim.csproj.CoreCompileInputs.cache
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\obj\Debug\netcoreapp2.1\BattleSim.AssemblyInfoInputs.cache
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\obj\Debug\netcoreapp2.1\BattleSim.AssemblyInfo.cs
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\obj\Debug\netcoreapp2.1\BattleSim.dll
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\obj\Debug\netcoreapp2.1\BattleSim.pdb
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\bin\Debug\netcoreapp2.1\BattleSimEntities.dll
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\bin\Debug\netcoreapp2.1\BattleSimEntities.pdb
+C:\Users\Joelw\source\repos\BattleSim\BattleSim\obj\Debug\netcoreapp2.1\BattleSim.csproj.CopyComplete
